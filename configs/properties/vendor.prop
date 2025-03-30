@@ -326,6 +326,7 @@ ro.control_privapp_permissions=enforce
 media.stagefright.thumbnail.prefer_hw_codecs=true
 vendor.mm.enable.qcom_parser=16711663
 persist.mm.enable.prefetch=true
+ro.mediaserver.64b.enable=true
 
 # Reduce the delay before killing inactive processes
 persist.sys.purgeable_assets=1
