@@ -7,6 +7,8 @@ ro.build.flavor                u:object_r:build_prop:s0
 # MIUI
 ro.cust.test                   u:object_r:exported_system_prop:s0
 ro.fota.oem                    u:object_r:exported_system_prop:s0
+ro.vendor.camera.req.fmq.size  u:object_r:exported_default_prop:s0
+ro.vendor.camera.res.fmq.size  u:object_r:exported_default_prop:s0
 
 # WiFi
 ro.wlan.bdf                    u:object_r:vendor_public_vendor_default_prop:s0
